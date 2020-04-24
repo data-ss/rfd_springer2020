@@ -27,4 +27,4 @@ Just a simple script to grab free access books from Springer for RFD, organized 
 
 Special thanks to **marcusdan18** for sharing this deal, and **MichaelSun** for compiling the direct download links.
 
-Note: springer.py is an identical script in Python-script format.
+Note: `springer.py` is an identical script in Python-script format.
